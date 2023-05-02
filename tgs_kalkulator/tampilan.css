@@ -1,0 +1,63 @@
+body {
+  background: rgb(8, 63, 8);
+  font-family: sans-serif;
+}
+
+.kalkulator {
+  padding: 25px 25px;
+  width: 335px;
+  height: 350px;
+  background: yellow;
+  margin: 100px auto;
+  padding: 10px 20px 50px 20px;
+  border-radius: 5px;
+  box-shadow: 0 10px 20px 0px #252020;
+}
+
+.bilangan1 {
+  width: 300px;
+  margin: 5px;
+  border: none;
+  font-size: 16pt;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.bilangan2 {
+  width: 300px;
+  margin: 5px;
+  border: none;
+  font-size: 16pt;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.oprs {
+  margin: 5px;
+  border: none;
+  font-size: 16pt;
+  width: 215px;
+  height: 30px;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.tombol {
+  background: #ec5159;
+  border-top: none;
+  border-left: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  color: #eee;
+  font-size: 15pt;
+  border-bottom: 4px solid#BF3D3D;
+}
+
+.hasil {
+  width: 300px;
+  margin: 5px;
+  border: none;
+  font-size: 16pt;
+  border-radius: 5px;
+  padding: 10px;
+}
